@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Alibaba PuHuiTi R';
+    src: url('../fonts/Alibaba-PuHuiTi-R.eot');
+    src: url('../fonts/Alibaba-PuHuiTi-R.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Alibaba-PuHuiTi-R.woff2') format('woff2'),
+        url('../fonts/Alibaba-PuHuiTi-R.woff') format('woff'),
+        url('../fonts/Alibaba-PuHuiTi-R.ttf') format('truetype'),
+        url('../fonts/Alibaba-PuHuiTi-R.svg#Alibaba-PuHuiTi-R') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
